@@ -16,5 +16,11 @@ class TwoActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
+
+        //  Recuperar os componentes EdixText
+        // Criar uma variavel e associar o componente de UI <EditText>
+        // Recuperar o botão da tela
+        // Colocar acao do botao setOnClickListener
+        // Recuperar texto editado no edt eso
     }
 }
